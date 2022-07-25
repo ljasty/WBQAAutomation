@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="15" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-25T10:33:26 PDT" name="Suite" finished-at="2022-07-25T10:35:35 PDT" duration-ms="129335">
+    <groups>
+    </groups>
+    <test started-at="2022-07-25T10:33:26 PDT" name="Test" finished-at="2022-07-25T10:35:35 PDT" duration-ms="129335">
+      <class name="com.wbqa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wbqa.testcases.LoginPageTest@242b836]" started-at="2022-07-25T10:34:11 PDT" name="setUp" finished-at="2022-07-25T10:34:22 PDT" duration-ms="10901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.wbqa.testcases.LoginPageTest@242b836]" started-at="2022-07-25T10:34:22 PDT" name="loginTest" data-provider="testdata" finished-at="2022-07-25T10:34:23 PDT" duration-ms="619" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.wbqa.testcases.LoginPageTest@242b836]" started-at="2022-07-25T10:34:23 PDT" name="TearDown" finished-at="2022-07-25T10:34:23 PDT" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wbqa.testcases.LoginPageTest@242b836]" started-at="2022-07-25T10:34:23 PDT" name="setUp" finished-at="2022-07-25T10:34:34 PDT" duration-ms="11537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.wbqa.testcases.LoginPageTest@242b836]" started-at="2022-07-25T10:34:34 PDT" name="loginTest" data-provider="testdata" finished-at="2022-07-25T10:34:35 PDT" duration-ms="555" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Srikantheslavath]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Innovapath]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.wbqa.testcases.LoginPageTest@242b836]" started-at="2022-07-25T10:34:35 PDT" name="TearDown" finished-at="2022-07-25T10:34:35 PDT" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wbqa.testcases.LoginPageTest@242b836]" started-at="2022-07-25T10:34:35 PDT" name="setUp" finished-at="2022-07-25T10:34:47 PDT" duration-ms="11851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.wbqa.testcases.LoginPageTest@242b836]" started-at="2022-07-25T10:34:47 PDT" name="loginTest" data-provider="testdata" finished-at="2022-07-25T10:34:48 PDT" duration-ms="601" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vinayreddy3337]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Innovapath123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.wbqa.testcases.LoginPageTest@242b836]" started-at="2022-07-25T10:34:48 PDT" name="TearDown" finished-at="2022-07-25T10:34:48 PDT" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wbqa.testcases.LoginPageTest@242b836]" started-at="2022-07-25T10:34:48 PDT" name="setUp" finished-at="2022-07-25T10:34:59 PDT" duration-ms="10854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.wbqa.testcases.LoginPageTest@242b836]" started-at="2022-07-25T10:34:59 PDT" name="loginTest" data-provider="testdata" finished-at="2022-07-25T10:34:59 PDT" duration-ms="537" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sri1997]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Innovapath123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.wbqa.testcases.LoginPageTest@242b836]" started-at="2022-07-25T10:34:59 PDT" name="TearDown" finished-at="2022-07-25T10:34:59 PDT" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wbqa.testcases.LoginPageTest@242b836]" started-at="2022-07-25T10:34:59 PDT" name="setUp" finished-at="2022-07-25T10:35:11 PDT" duration-ms="11988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.wbqa.testcases.LoginPageTest@242b836]" started-at="2022-07-25T10:35:11 PDT" name="loginTest" data-provider="testdata" finished-at="2022-07-25T10:35:12 PDT" duration-ms="584" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Subir]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Innovapath123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.wbqa.testcases.LoginPageTest@242b836]" started-at="2022-07-25T10:35:12 PDT" name="TearDown" finished-at="2022-07-25T10:35:12 PDT" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.wbqa.testcases.LoginPageTest -->
+      <class name="com.wbqa.testcases.LandingPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.wbqa.testcases.LandingPageTest@3f6f6701]" started-at="2022-07-25T10:35:12 PDT" name="setup" finished-at="2022-07-25T10:35:24 PDT" duration-ms="11905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomeBtn()[pri:1, instance:com.wbqa.testcases.LandingPageTest@3f6f6701]" started-at="2022-07-25T10:35:24 PDT" name="verifyHomeBtn" finished-at="2022-07-25T10:35:24 PDT" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomeBtn -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.wbqa.testcases.LandingPageTest@3f6f6701]" started-at="2022-07-25T10:35:24 PDT" name="TearDown" finished-at="2022-07-25T10:35:24 PDT" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.wbqa.testcases.LandingPageTest@3f6f6701]" started-at="2022-07-25T10:35:24 PDT" name="setup" finished-at="2022-07-25T10:35:35 PDT" duration-ms="10954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySchBtn()[pri:2, instance:com.wbqa.testcases.LandingPageTest@3f6f6701]" started-at="2022-07-25T10:35:35 PDT" name="verifySchBtn" finished-at="2022-07-25T10:35:35 PDT" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySchBtn -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.wbqa.testcases.LandingPageTest@3f6f6701]" started-at="2022-07-25T10:35:35 PDT" name="TearDown" finished-at="2022-07-25T10:35:35 PDT" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.wbqa.testcases.LandingPageTest -->
+      <class name="com.wbqa.testcases.HomePageTest">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.wbqa.testcases.HomePageTest@53aac487]" started-at="2022-07-25T10:33:26 PDT" name="loadConfig" finished-at="2022-07-25T10:33:26 PDT" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wbqa.testcases.HomePageTest@53aac487]" started-at="2022-07-25T10:33:26 PDT" name="setUp" finished-at="2022-07-25T10:33:39 PDT" duration-ms="13277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestTitle()[pri:1, instance:com.wbqa.testcases.HomePageTest@53aac487]" started-at="2022-07-25T10:33:39 PDT" name="TestTitle" finished-at="2022-07-25T10:33:39 PDT" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.wbqa.testcases.HomePageTest@53aac487]" started-at="2022-07-25T10:33:39 PDT" name="teardown" finished-at="2022-07-25T10:33:40 PDT" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wbqa.testcases.HomePageTest@53aac487]" started-at="2022-07-25T10:33:40 PDT" name="setUp" finished-at="2022-07-25T10:33:49 PDT" duration-ms="9581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyfreestudentTest()[pri:2, instance:com.wbqa.testcases.HomePageTest@53aac487]" started-at="2022-07-25T10:33:49 PDT" name="verifyfreestudentTest" finished-at="2022-07-25T10:33:50 PDT" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyfreestudentTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.wbqa.testcases.HomePageTest@53aac487]" started-at="2022-07-25T10:33:50 PDT" name="teardown" finished-at="2022-07-25T10:33:50 PDT" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wbqa.testcases.HomePageTest@53aac487]" started-at="2022-07-25T10:33:50 PDT" name="setUp" finished-at="2022-07-25T10:33:59 PDT" duration-ms="9149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifywbllogoTest()[pri:3, instance:com.wbqa.testcases.HomePageTest@53aac487]" started-at="2022-07-25T10:33:59 PDT" name="verifywbllogoTest" finished-at="2022-07-25T10:33:59 PDT" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifywbllogoTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.wbqa.testcases.HomePageTest@53aac487]" started-at="2022-07-25T10:33:59 PDT" name="teardown" finished-at="2022-07-25T10:33:59 PDT" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wbqa.testcases.HomePageTest@53aac487]" started-at="2022-07-25T10:33:59 PDT" name="setUp" finished-at="2022-07-25T10:34:09 PDT" duration-ms="9698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyloginTest()[pri:4, instance:com.wbqa.testcases.HomePageTest@53aac487]" started-at="2022-07-25T10:34:09 PDT" name="verifyloginTest" finished-at="2022-07-25T10:34:10 PDT" duration-ms="1439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.wbqa.testcases.HomePageTest@53aac487]" started-at="2022-07-25T10:34:10 PDT" name="teardown" finished-at="2022-07-25T10:34:11 PDT" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.wbqa.testcases.HomePageTest@53aac487]" started-at="2022-07-25T10:35:35 PDT" name="afterSuite" finished-at="2022-07-25T10:35:36 PDT" duration-ms="411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.wbqa.testcases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
